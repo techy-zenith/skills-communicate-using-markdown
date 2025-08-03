@@ -8,3 +8,7 @@ def greet():
     print("Hello, world!")
 
 greet()
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
